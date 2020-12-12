@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "It is a calculator npm",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elai Shane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
